@@ -1,8 +1,4 @@
-// COURSE: CSCI1620
-// TERM: Fall 2020
-// 
 // NAME: Logan Noonan
-// RESOURCES: I utilized help from the CSLC various times for help with web-cat errors.
 
 package reports;
 
